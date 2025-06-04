@@ -7,14 +7,14 @@ This repository documents my progress as I learn SwiftUI over the course of 100 
 ## Progress
 
 - [x] Day 1 - Getting Started
-- [ ] Day 2 - Coming Soon...
+- [x] Day 2 - Booleans, String interpolation, summary of data types, variables, constants, numbers and functionalities
 - [ ] Day 3 - Coming Soon...
 - [ ] ...
 - [ ] Day 100 - The Final Day!
 
 ## Structure
 
-Each day has its own folder (`day_1`, `day_2`, etc.) containing:
+Each day has its own folder (`day-1`, `day-2`, etc.) containing:
 - Project files
 - Notes and learnings
 - Screenshots or demos (when applicable)
