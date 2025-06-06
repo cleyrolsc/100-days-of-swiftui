@@ -8,7 +8,7 @@ This repository documents my progress as I learn SwiftUI over the course of 100 
 
 - [x] Day 1 - Getting Started
 - [x] Day 2 - Booleans, String interpolation, summary of data types, variables, constants, numbers and functionalities
-- [ ] Day 3 - Coming Soon...
+- [x] Day 3 - Arrays, dictionaries, sets, and enums
 - [ ] ...
 - [ ] Day 100 - The Final Day!
 
