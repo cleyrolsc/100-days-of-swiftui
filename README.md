@@ -10,6 +10,7 @@ This repository documents my progress as I learn SwiftUI over the course of 100 
 - [x] Day 2 - Booleans, String interpolation, summary of data types, variables, constants, numbers and functionalities
 - [x] Day 3 - Arrays, dictionaries, sets, and enums
 - [x] Day 4 - Type annotations, summary of complex data and checkpoint 2
+- [x] Day 5 - Checking conditions with if statements, if/else if/else for multiple conditions, switch statements and ternary operator
 - [ ] ...
 - [ ] Day 100 - The Final Day!
 
