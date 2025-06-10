@@ -12,6 +12,7 @@ This repository documents my progress as I learn SwiftUI over the course of 100 
 - [x] Day 4 - Type annotations, summary of complex data and checkpoint 2
 - [x] Day 5 - Checking conditions with if statements, if/else if/else for multiple conditions, switch statements and ternary operator
 - [x] Day 6 - For loops, while loops, break and continue, summary of conditional and loops, and checkpoint 3 (FizzBuzz exercise)
+- [x] Day 7 - Functions, returning single value and multiple values, custom parameter labels
 - [ ] ...
 - [ ] Day 100 - The Final Day!
 
