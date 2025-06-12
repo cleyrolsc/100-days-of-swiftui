@@ -14,6 +14,7 @@ This repository documents my progress as I learn SwiftUI over the course of 100 
 - [x] Day 6 - For loops, while loops, break and continue, summary of conditional and loops, and checkpoint 3 (FizzBuzz exercise)
 - [x] Day 7 - Functions, returning single value and multiple values, custom parameter labels
 - [x] Day 8 - Default values for parameters, error handling in functions, functions summary, and checkpoint 4
+- [x] Day 9 - Closures, trailing closures and shorthand syntax, accept functions as parameters
 - [ ] ...
 - [ ] Day 100 - The Final Day!
 
