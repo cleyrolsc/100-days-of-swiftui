@@ -16,7 +16,7 @@ This repository documents my progress as I learn SwiftUI over the course of 100 
 - [x] Day 8 - Default values for parameters, error handling in functions, functions summary, and checkpoint 4
 - [x] Day 9 - Closures, trailing closures and shorthand syntax, accept functions as parameters
 - [x] Day 10 - Structs, Computed Property, Property Observer, Custom initializer
-- [ ] ...
+- [x] Day 10 - access control for properties and functions within structs, static modifier, checkpoint 6
 - [ ] Day 100 - The Final Day!
 
 ## Structure
