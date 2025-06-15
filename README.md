@@ -17,6 +17,10 @@ This repository documents my progress as I learn SwiftUI over the course of 100 
 - [x] Day 9 - Closures, trailing closures and shorthand syntax, accept functions as parameters
 - [x] Day 10 - Structs, Computed Property, Property Observer, Custom initializer
 - [x] Day 11 - access control for properties and functions within structs, static modifier, checkpoint 6
+- [x] Day 12 - create classes, make class inherit from another, add initializer, copy classes, create deinitializer, work with variables inside classes, checkpoint 7
+- [ ] ------
+- [ ] -------
+- [ ] ---------
 - [ ] Day 100 - The Final Day!
 
 ## Structure
