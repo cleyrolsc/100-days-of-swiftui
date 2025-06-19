@@ -20,7 +20,7 @@ This repository documents my progress as I learn SwiftUI over the course of 100 
 - [x] Day 12 - create classes, make class inherit from another, add initializer, copy classes, create deinitializer, work with variables inside classes, checkpoint 7
 - [x] Day 13 - create protocols, use opaque return types, create and use extensions, protocol extensions and checkpoint8
 - [x] Day 14: Handle data with optionals, optionals with guard, unwrap optional with nil coalescing, handle multiple optionals using optional chaining, handle function failure with optional, and checkpoint9
-- [ ] -------
+- [x] Day 16 - Get an introduction for the weSplit app, reviewed View, Form, NavigationStack, Program State, Binding State and Creating views in a loop
 - [ ] ---------
 - [ ] Day 100 - The Final Day!
 
