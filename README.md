@@ -22,8 +22,9 @@ This repository documents my progress as I learn SwiftUI over the course of 100 
 - [x] Day 14: Handle data with optionals, optionals with guard, unwrap optional with nil coalescing, handle multiple optionals using optional chaining, handle function failure with optional, and checkpoint9
 - [x] Day 16 - Get an introduction for the weSplit app, reviewed View, Form, NavigationStack, Program State, Binding State and Creating views in a loop
 - [x] Day 17 - Finish the creation of the WeSplitApp 
-- [x] Day 18 - Review the wesplit app, added a new section for practice and a header for two of those sections. Also, change the picker style for the tip percentage section
-- [x] Day 19 - Work on a challenge to create a temperature converted 
+- [x] Day 18 - Review the wesplit app, added a new section for practice and a header for two of those sections. Also, change the picker style for the tip percentage section 
+- [x] Day 19 - Work on a challenge to create a temperature converted
+- [x] Day 20 - Get introduction for the guess the flag app, get to know about stacks and arrange views, colors and frames, gradients, buttons and images and lastly showing alerts 
 - [ ] ---------
 - [ ] Day 100 - The Final Day!
 
