@@ -24,7 +24,8 @@ This repository documents my progress as I learn SwiftUI over the course of 100 
 - [x] Day 17 - Finish the creation of the WeSplitApp 
 - [x] Day 18 - Review the wesplit app, added a new section for practice and a header for two of those sections. Also, change the picker style for the tip percentage section 
 - [x] Day 19 - Work on a challenge to create a temperature converted
-- [x] Day 20 - Get introduction for the guess the flag app, get to know about stacks and arrange views, colors and frames, gradients, buttons and images and lastly showing alerts 
+- [x] Day 20 - Get introduction for the guess the flag app, get to know about stacks and arrange views, colors and frames, gradients, buttons and images and lastly showing alerts
+- [x] Day 21 - Complete guess the flag game style and functionality 
 - [ ] ---------
 - [ ] Day 100 - The Final Day!
 
