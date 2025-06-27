@@ -7,6 +7,16 @@
 
 import SwiftUI
 
+struct FlagImage: View {
+    var countries: String
+
+    var body: some View {
+        Image(countries)
+            .clipShape(.capsule)
+            .shadow(radius: 5)
+    }
+}
+
 struct ContentView: View {
     @State private var countries = ["Estonia", "France", "Germany", "Ireland", "Nigeria", "Poland", "Spain", "UK", "Ukraine", "US"].shuffled()
     
@@ -46,9 +56,8 @@ struct ContentView: View {
                     Button{
                         flagTapped(number)
                     } label: {
-                        Image(countries[number])
-                            .clipShape(.capsule)
-                            .shadow(radius: 5)
+                        FlagImage(countries: countries[number])
+                            
                     }
                 }
             }
