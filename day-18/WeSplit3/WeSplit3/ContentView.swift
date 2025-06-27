@@ -43,12 +43,7 @@ struct ContentView: View {
                         .keyboardType(.decimalPad)
                         .focused($amountIsFocus)
                     
-                    Picker("Number of people", selection: $amountPeople){
-                        ForEach(2..<99){
-                            Text("\($0) people")
-                        }
-                    }
-                    .pickerStyle(.navigationLink)
+                                        .pickerStyle(.navigationLink)
                 }
                 
                 Section("How much do you want to tip?"){
