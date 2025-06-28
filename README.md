@@ -26,7 +26,9 @@ This repository documents my progress as I learn SwiftUI over the course of 100 
 - [x] Day 19 - Work on a challenge to create a temperature converted
 - [x] Day 20 - Get introduction for the guess the flag app, get to know about stacks and arrange views, colors and frames, gradients, buttons and images and lastly showing alerts
 - [x] Day 21 - Complete guess the flag game style and functionality
-- [x] Day 22 - Do challenge of Guess The Flag, added a property to keep the score, showed a custom message when guessing the wrong flag, and adding a conditional to start over the game 
+- [x] Day 22 - Do challenge of Guess The Flag, added a property to keep the score, showed a custom message when guessing the wrong flag, and adding a conditional to start over the game
+- [x] Day 23 - Review views and modifiera
+- [x] Day 24 - do the challenges for Project1 and Project2
 - [ ] ---------
 - [ ] Day 100 - The Final Day!
 
